@@ -1,0 +1,15 @@
+matplotlib
+numpy
+pandas
+scikit-learn
+langchain
+langchain-community
+langgraph
+crewai
+autogen-agentchat
+phidata
+ollama
+sqlalchemy
+python-dotenv
+streamlit
+jupyter
