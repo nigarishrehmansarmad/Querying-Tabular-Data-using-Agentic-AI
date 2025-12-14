@@ -1,4 +1,4 @@
-# 🚀 Agentic Text-to-SQL System v4.0
+# 🚀 Chatting with Tables
 
 > **Query ANY database in natural language. No SQL knowledge required.**
 
