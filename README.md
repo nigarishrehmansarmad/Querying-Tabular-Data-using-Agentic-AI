@@ -537,9 +537,9 @@ If you use this system in your research, please cite:
 
 ```bibtex
 @software{agentic_text_to_sql_2025,
-  author = {Your Name},
+  author = {Nigarish Rehman Sarmad},
   title = {Agentic Text-to-SQL System v4.0},
-  url = {https://github.com/yourusername/agentic-text-to-sql},
+  url = {https://github.com/nigarishrehmansarmad/Querying-Tabular-Data-using-Agentic-AI},
   year = {2025}
 }
 ```
@@ -551,7 +551,7 @@ If you use this system in your research, please cite:
 ### Getting Help
 
 1. **Check the [Troubleshooting](#-troubleshooting) section**
-2. **Search existing [Issues](https://github.com/yourusername/agentic-text-to-sql/issues)**
+2. **Search existing [Issues](https://github.com/nigarishrehmansarmad/Querying-Tabular-Data-using-Agentic-AI/issues)**
 3. **Try with `use_llm=False` to isolate LLM issues**
 4. **Check Ollama is running: `ollama serve`**
 
